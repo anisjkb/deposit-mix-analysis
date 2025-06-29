@@ -1,0 +1,71 @@
+PRODUCT_NATURE,PRODUCT_DESC,GENDER,PRODUCT_TYPE,TOTAL_ACCOUNTS
+Current A/c,Current Account -Astha,Male,No Cost,1540
+Current A/c,Personal Retail Account,Male,No Cost,21508
+Current A/c,Personal Retail Account,Female,No Cost,1237
+Current A/c,Agent Current Account,Female,No Cost,1064
+Current A/c,Current Account -Astha,Female,No Cost,115
+Current A/c,Agent Current Account,Others,No Cost,250
+Current A/c,Current Account,Others,No Cost,30626
+Current A/c,Institutional Current Account,Others,No Cost,260
+Current A/c,Current Account,Male,No Cost,59660
+Current A/c,Current Account,Female,No Cost,3810
+Current A/c,Personal Retail Account,Others,No Cost,181
+Current A/c,Current Account -Astha,Others,No Cost,47198
+Current A/c,Agent Current Account,Male,No Cost,7828
+Saving A/c,Savings Account,Female,Low Cost,1610781
+Saving A/c,Covid Special allowance program,Female,Low Cost,35524
+Saving A/c,Jubo Unnoyon Program,Female,Low Cost,2465
+Saving A/c,SB - VGD Program,Female,Low Cost,893299
+Saving A/c,Savings Account - Staff,Male,Low Cost,265
+Saving A/c,Savings Account - Staff,Others,Low Cost,1
+Saving A/c,Savings Account-SSN,Female,Low Cost,1671978
+Saving A/c,Savings Account,Male,Low Cost,1116168
+Saving A/c,Corporate Privileged Account,Female,Low Cost,8057
+Saving A/c,SB - VGD Program,Others,Low Cost,11
+Saving A/c,Jubo Unnoyon Program,Male,Low Cost,1956
+Saving A/c,Savings Account,Others,Low Cost,2101
+Saving A/c,Corporate Privileged Account,Male,Low Cost,11102
+Saving A/c,SB - VGD Program,Male,Low Cost,1499
+Saving A/c,Savings Account - SMART,Male,Low Cost,36378
+Saving A/c,Savings Account-SSN,Others,Low Cost,2
+Saving A/c,Bank Asia School Banking,Female,Low Cost,91947
+Saving A/c,Savings Account-SSN,Male,Low Cost,879520
+Saving A/c,SAVINGS BANK A/C-10 TAKA,Female,Low Cost,59710
+Saving A/c,SAVINGS BANK A/C-10 TAKA,Others,Low Cost,38
+Saving A/c,Savings Account - SMART,Female,Low Cost,39825
+Saving A/c,SAVINGS BANK A/C-10 TAKA,Male,Low Cost,124108
+Saving A/c,Bank Asia School Banking,Male,Low Cost,63862
+Saving A/c,Covid Special allowance program,Male,Low Cost,58876
+Saving A/c,Savings Account - Staff,Female,Low Cost,43
+SND A/c,Short Notice Deposit,Male,Low Cost,127
+SND A/c,Institutional SND,Others,Low Cost,295
+SND A/c,Short Notice Deposit,Female,Low Cost,49
+SND A/c,Short Notice Deposit,Others,Low Cost,3273
+DPS A/c,DPS-100 Scheme Account (Individual),Male,High Cost,21857
+FDR A/c,Monthly Benefit Deposit,Male,High Cost,2433
+FDR A/c,SPECIAL SB FOR SENIOR CITIZEN,Female,High Cost,349
+FDR A/c,Term Deposit Scheme,Male,High Cost,95642
+FDR A/c,Term Deposit Scheme,Others,High Cost,621
+FDR A/c,TRIPLE BENEFIT PLUS,Female,High Cost,222
+FDR A/c,Monthly Benefit Deposit,Female,High Cost,2445
+DPS A/c,Deposit Pension Scheme(DPS+),Others,High Cost,5420
+FDR A/c,DOUBLE BENEFIT PLUS (DB+),Others,High Cost,1
+DPS A/c,Deposit Pension Scheme(DPS+),Female,High Cost,171218
+FDR A/c,DOUBLE BENEFIT PLUS (DB+),Male,High Cost,2216
+FDR A/c,Company-FDR,Others,High Cost,1879
+FDR A/c,Super Saver-Company,Others,High Cost,31
+DPS A/c,DPS-100 Scheme Account (Individual),Female,High Cost,45928
+FDR A/c,Stand Alon FDR - Company,Others,High Cost,4
+DPS A/c,SHONCHOY E KOTI POTI,Male,High Cost,18410
+FDR A/c,Monthly Benefit Deposit,Others,High Cost,14
+FDR A/c,Super Saver - Individual,Female,High Cost,407
+FDR A/c,DOUBLE BENEFIT PLUS (DB+),Female,High Cost,3921
+DPS A/c,SHONCHOY E KOTI POTI,Female,High Cost,8188
+DPS A/c,Deposit Pension Scheme(DPS+),Male,High Cost,234854
+DPS A/c,SHONCHOY E KOTI POTI,Others,High Cost,367
+FDR A/c,TRIPLE BENEFIT PLUS,Male,High Cost,155
+FDR A/c,Term Deposit Scheme,Female,High Cost,123644
+DPS A/c,DPS-100 Scheme Account (Individual),Others,High Cost,49
+DPS A/c,Special Savings Scheme (Women),Female,High Cost,55185
+FDR A/c,Super Saver - Individual,Male,High Cost,658
+DPS A/c,SPECIAL SB FOR SENIOR CITIZEN,Male,High Cost,721
