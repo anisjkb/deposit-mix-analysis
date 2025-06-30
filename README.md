@@ -37,12 +37,6 @@ A high-level view of the gender distribution across all accounts.
 
 ![Total Accounts by Gender](images/total_ac_gender_donut.png)
 
-A high-level view of the gender distribution across all accounts.
-
----
-
-![Total Accounts by Gender](images/total_ac_gender_donut.png)
-
 ### 🔍 Insights from the "Total Accounts by Gender"
 
 **Gender Distribution Overview**:
@@ -66,7 +60,7 @@ A high-level view of the gender distribution across all accounts.
 
 **2.  Total Accounts by Deposit Type (Bar Chart):** Shows the popularity of different product categories.
 ---
-    ![Total Accounts by Deposit Type](images/total_ac_deposit_type.png)
+![Total Accounts by Deposit Type](images/total_ac_deposit_type.png)
 
 ### 🔍 Insights from the "Total Accounts by Deposit Type"
 
