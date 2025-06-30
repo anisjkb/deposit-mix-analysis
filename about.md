@@ -86,13 +86,13 @@ This project provides a comprehensive analysis of a retail bank's customer accou
 
 ---
 
-## ✨ Author Notes  
+## ✨ My Notes  
 This project demonstrates how **demographic analytics** can shape inclusive banking strategies. Key takeaways:  
 - Women drive engagement in savings; men prefer transactional accounts.  
 - **Actionable segmentation** unlocks growth in underserved segments.  
 
 **Let’s connect!**  
-- [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)  
+- [LinkedIn](https://www.linkedin.com/in/anisuzzaman-md-568513164/) | [GitHub](https://github.com/anisjkb)  
 
 ---  
 
