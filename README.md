@@ -28,7 +28,7 @@ The goal of this project is to analyze the distribution of customer accounts acr
 ---
 
 ### Visualizations
----
+
 This analysis produced several key visualizations to illustrate the findings.
 
 **1. Total Accounts by Gender (Donut Chart):** A high-level view of the gender distribution across all accounts.
@@ -57,6 +57,7 @@ This analysis produced several key visualizations to illustrate the findings.
    - **Monitor Trends**: Track changes over time to assess the impact of any interventions aimed at balancing gender representation.
 
 **2.  Total Accounts by Deposit Type (Bar Chart):** Shows the popularity of different product categories.
+---
     ![Total Accounts by Deposit Type](images/total_ac_deposit_type.png)
 
 ### 🔍 Insights from the "Total Accounts by Deposit Type"
@@ -85,6 +86,7 @@ This analysis produced several key visualizations to illustrate the findings.
    If “No Cost” reflects accounts under social or government programs, expanding this category may help meet regulatory or CSR goals.
 
 **3.  Account Engagement by Gender (Grouped Bar Chart):** A comparative view of how genders are represented within each product type.
+---
     ![Account Engagement by Gender](images/deposit_engagement_by_gender.png)
 
 ### 🔍 Insights by Account Engagement by Gender
@@ -116,6 +118,7 @@ This analysis produced several key visualizations to illustrate the findings.
    - Tailor messaging for male users toward cost-efficient or fee-free accounts.
 
 **4.  Percentage of Accounts by Gender (Bar Chart):** A normalized view showing the percentage split of genders within each deposit type.
+---
     ![Gender Percentage by Deposit](images/gender_percentage_by_deposit.png)
 
 ### 🔍 Insights Takeaways
@@ -147,7 +150,9 @@ This analysis produced several key visualizations to illustrate the findings.
 **iii. Data-Driven Personalization**  
    - Gender-segmented insights like this can inform **branch-level KPIs**, **mobile banking UI designs**, or even **training for RM staff** on inclusive banking.
 
-### Business Recommendations
+---
+
+### Final Business Recommendations
 * **Targeted Campaigns:** Develop marketing initiatives to promote "Low Cost" savings products to the male segment.
 * **Enhance Product Offerings:** Investigate the features of "No Cost" accounts to make them more attractive to the female segment.
 * **Leverage Existing Strengths:** Retain and grow the female customer base in "Low Cost" accounts by introducing loyalty programs or tiered benefits.
