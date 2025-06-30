@@ -52,8 +52,6 @@ This analysis produced several key visualizations to illustrate the findings.
    - **Targeted Initiatives**: Launch initiatives to engage underrepresented groups, such as financial literacy programs for women or partnerships with LGBTQ+ organizations.
    - **Monitor Trends**: Track changes over time to assess the impact of any interventions aimed at balancing gender representation.
 
-**Clear Segmentation:** There is a distinct difference in product preference between genders, indicating an opportunity for more precise customer segmentation and targeted strategies.
-
 **2.  Total Accounts by Deposit Type (Bar Chart):** Shows the popularity of different product categories.
     ![Total Accounts by Deposit Type](images/total_ac_deposit_type.png)
 
