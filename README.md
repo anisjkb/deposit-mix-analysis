@@ -89,7 +89,7 @@ A high-level view of the gender distribution across all accounts.
 
 **3.  Account Engagement by Gender (Grouped Bar Chart):** A comparative view of how genders are represented within each product type.
 ---
-    ![Account Engagement by Gender](images/deposit_engagement_by_gender.png)
+![Account Engagement by Gender](images/deposit_engagement_by_gender.png)
 
 ### 🔍 Insights by Account Engagement by Gender
 
@@ -121,7 +121,7 @@ A high-level view of the gender distribution across all accounts.
 
 **4.  Percentage of Accounts by Gender (Bar Chart):** A normalized view showing the percentage split of genders within each deposit type.
 ---
-    ![Gender Percentage by Deposit](images/gender_percentage_by_deposit.png)
+![Gender Percentage by Deposit](images/gender_percentage_by_deposit.png)
 
 ### 🔍 Insights Takeaways
 
