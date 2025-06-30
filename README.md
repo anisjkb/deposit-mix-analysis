@@ -142,7 +142,7 @@ This analysis produced several key visualizations to illustrate the findings.
 **ii. Strengthen Inclusion Metrics**  
    - The “Others” category’s near parity with Males in No Cost accounts is remarkable—it suggests room to highlight or expand this progress in annual reports or CSR dashboards.
 
-***iii. Data-Driven Personalization**  
+**iii. Data-Driven Personalization**  
    - Gender-segmented insights like this can inform **branch-level KPIs**, **mobile banking UI designs**, or even **training for RM staff** on inclusive banking.
 
 ### Business Recommendations
