@@ -25,6 +25,8 @@ The goal of this project is to analyze the distribution of customer accounts acr
 * Which specific products show a significant gender gap, and where are the opportunities for growth?
 * What strategic actions can the bank take to better serve underrepresented segments?
 
+---
+
 ### Visualizations
 This analysis produced several key visualizations to illustrate the findings.
 
@@ -80,7 +82,7 @@ This analysis produced several key visualizations to illustrate the findings.
 - **Scope for Financial Inclusion**  
    If “No Cost” reflects accounts under social or government programs, expanding this category may help meet regulatory or CSR goals.
 
-3.  **Account Engagement by Gender (Grouped Bar Chart):** A comparative view of how genders are represented within each product type.
+**3.  Account Engagement by Gender (Grouped Bar Chart):** A comparative view of how genders are represented within each product type.
     ![Account Engagement by Gender](images/deposit_engagement_by_gender.png)
 
 ### 🔍 Insights by Account Engagement by Gender
@@ -148,12 +150,16 @@ This analysis produced several key visualizations to illustrate the findings.
 * **Enhance Product Offerings:** Investigate the features of "No Cost" accounts to make them more attractive to the female segment.
 * **Leverage Existing Strengths:** Retain and grow the female customer base in "Low Cost" accounts by introducing loyalty programs or tiered benefits.
 
+---
+
 ### Technologies Used
 * Python 3.x
 * Pandas
 * Matplotlib
 * Seaborn
 * Jupyter Notebook
+
+---
 
 ### Data Source
 * `product_wise_ac_info.csv`: This file contains the aggregated data on the number of accounts for each product description, segmented by product nature, product type, and gender.
