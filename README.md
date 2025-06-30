@@ -33,9 +33,7 @@ This analysis produced several key visualizations to illustrate the findings.
 
 **1. Total Accounts by Gender (Donut Chart):**
 A high-level view of the gender distribution across all accounts.
-
 ---
-
 
     ![Total Accounts by Gender](images/total_ac_gender_donut.png)
 
