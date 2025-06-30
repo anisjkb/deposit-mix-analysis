@@ -35,8 +35,13 @@ This analysis produced several key visualizations to illustrate the findings.
 A high-level view of the gender distribution across all accounts.
 ---
 
+![Total Accounts by Gender](images/total_ac_gender_donut.png)
 
-    ![Total Accounts by Gender](images/total_ac_gender_donut.png)
+A high-level view of the gender distribution across all accounts.
+
+---
+
+![Total Accounts by Gender](images/total_ac_gender_donut.png)
 
 ### 🔍 Insights from the "Total Accounts by Gender"
 
