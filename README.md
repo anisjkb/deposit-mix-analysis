@@ -28,12 +28,12 @@ The goal of this project is to analyze the distribution of customer accounts acr
 ### Visualizations
 This analysis produced several key visualizations to illustrate the findings.
 
-1.  **Total Accounts by Gender (Donut Chart):** A high-level view of the gender distribution across all accounts.
+**1. Total Accounts by Gender (Donut Chart):** A high-level view of the gender distribution across all accounts.
     ![Total Accounts by Gender](images/total_ac_gender_donut.png)
 
-### Insights from the "Total Accounts by Gender" Donut Chart
+### 🔍 Insights from the "Total Accounts by Gender"
 
-i. **Gender Distribution Overview**:
+**Gender Distribution Overview**:
    - **Male**: 4,831,410 accounts (62.9%)  
      - Males dominate the account holders, representing nearly two-thirds of the total accounts. This suggests a strong male customer base, possibly due to targeted marketing, product preferences, or socio-economic factors.
    - **Female**: 2,761,342 accounts (35.9%)  
@@ -47,25 +47,25 @@ i. **Gender Distribution Overview**:
    - **Inclusivity Efforts**: The small percentage of "Others" highlights an opportunity to enhance inclusivity, potentially through awareness campaigns or products designed for diverse gender identities.
    - **Customer Segmentation**: Further analysis could explore whether the gender distribution aligns with regional or product-specific trends, such as savings vs. investment accounts.
 
-**Recommendations**:
+### 🧠 Recommendations:
    - **Investigate Underlying Causes**: Conduct surveys or focus groups to understand why females and non-binary individuals are less represented. Are there barriers (e.g., accessibility, product features)?
    - **Targeted Initiatives**: Launch initiatives to engage underrepresented groups, such as financial literacy programs for women or partnerships with LGBTQ+ organizations.
    - **Monitor Trends**: Track changes over time to assess the impact of any interventions aimed at balancing gender representation.
 
 **Clear Segmentation:** There is a distinct difference in product preference between genders, indicating an opportunity for more precise customer segmentation and targeted strategies.
 
-2.  **Total Accounts by Deposit Type (Bar Chart):** Shows the popularity of different product categories.
+**2.  Total Accounts by Deposit Type (Bar Chart):** Shows the popularity of different product categories.
     ![Total Accounts by Deposit Type](images/total_ac_deposit_type.png)
 
 ### 🔍 Insights from the "Total Accounts by Deposit Type"
 
-i. **Dominance of Low Cost Accounts**  
+**i. Dominance of Low Cost Accounts**  
    With **87.4% of total accounts**, Low Cost deposits represent the overwhelming majority—over **6.7 million accounts**. This implies a significant customer base seeking affordable banking solutions, possibly driven by inclusive or mass-market strategies like savings or salary accounts.
 
-ii. **Minimal Share of High Cost Accounts**  
+**ii. Minimal Share of High Cost Accounts**  
    At **10.4% (796K accounts)**, High Cost deposits form a smaller chunk. This might reflect a more selective clientele, possibly tied to high-interest term deposits or less favorable cost-benefit offerings for the customer.
 
-iii. **No Cost Accounts Are Niche**  
+**iii. No Cost Accounts Are Niche**  
    Only **2.3% (175K accounts)** fall into the No Cost category, which could indicate:
    - Limited promotional or zero-fee products
    - Eligibility barriers
@@ -85,38 +85,38 @@ iii. **No Cost Accounts Are Niche**
 3.  **Account Engagement by Gender (Grouped Bar Chart):** A comparative view of how genders are represented within each product type.
     ![Account Engagement by Gender](images/deposit_engagement_by_gender.png)
 
-### 🧠 Key Insights by Account Engagement by Gender
+### 🔍 Insights by Account Engagement by Gender
 
-#### 🔹 **High Cost Accounts**
+#### 🔹 High Cost Accounts
 - **Female (51.6%)** slightly outnumber **Male (47.3%)**, suggesting that women are more engaged with higher interest-bearing or premium accounts.
 - This could reflect growing financial independence or tailored offerings (e.g., premium savings, fixed deposits) appealing to female account holders.
 
-#### 🔹 **Low Cost Accounts**
+#### 🔹 Low Cost Accounts
 - A **strong female majority (65.7%)** dominates this segment—possibly driven by inclusion efforts (e.g., salary accounts, easy-access savings) and broader outreach campaigns.
 - **Male (34.2%)** participation, though sizable, lags significantly.
 - **Others (0.1%)** represent a minimal share but indicate some diversity.
 
-#### 🔹 **No Cost Accounts**
+#### 🔹 No Cost Accounts
 - Surprisingly, **Males (51.7%)** lead this category, followed closely by **Others (44.8%)**, while **Females (3.6%)** are underrepresented.
 - The high share of “Others” could signify targeted outreach under special ID, NGO, or financial inclusion programs.
 
 ### 📊 Strategic Implications
 
-i. **Gender-Focused Product Strategies**  
+**i. Gender-Focused Product Strategies**  
    - Enhance offerings for female customers in High and Low Cost segments with personalized value propositions or loyalty programs.
    - Investigate barriers for female entry into No Cost accounts—perhaps digital literacy, awareness, or documentation issues.
 
-ii. **Inclusive Growth Potential**  
+**ii. Inclusive Growth Potential**  
    - The significant share of “Others” in No Cost accounts is notable. It underscores progress toward gender diversity and financial inclusion and opens doors for focused service models.
 
-iii. **Cross-Sell Opportunities**  
+***iii. Cross-Sell Opportunities**  
    - Use Low Cost female-dominant base to upsell to High Cost products.
    - Tailor messaging for male users toward cost-efficient or fee-free accounts.
 
-4.  **Percentage of Accounts by Gender (Bar Chart):** A normalized view showing the percentage split of genders within each deposit type.
+**4.  Percentage of Accounts by Gender (Bar Chart):** A normalized view showing the percentage split of genders within each deposit type.
     ![Gender Percentage by Deposit](images/gender_percentage_by_deposit.png)
 
-### 🧠 Key Insights Takeaways
+### 🔍 Insights Takeaways
 
 #### 🔹 High Cost Accounts
 - **Females: 51.6%** | **Males: 47.3%** | **Others: 1.1%**
@@ -135,14 +135,14 @@ iii. **Cross-Sell Opportunities**
 
 ### 📊 Strategic Implications
 
-i. **Refine Product Targeting**  
+**i. Refine Product Targeting**  
    - Capitalize on the **strong female presence** in Low Cost and High Cost accounts through cross-sell and retention strategies.
    - Use tailored campaigns to increase **female uptake in No Cost accounts**, possibly addressing accessibility or awareness issues.
 
-ii. **Strengthen Inclusion Metrics**  
+**ii. Strengthen Inclusion Metrics**  
    - The “Others” category’s near parity with Males in No Cost accounts is remarkable—it suggests room to highlight or expand this progress in annual reports or CSR dashboards.
 
-iii. **Data-Driven Personalization**  
+***iii. Data-Driven Personalization**  
    - Gender-segmented insights like this can inform **branch-level KPIs**, **mobile banking UI designs**, or even **training for RM staff** on inclusive banking.
 
 ### Business Recommendations
@@ -156,23 +156,6 @@ iii. **Data-Driven Personalization**
 * Matplotlib
 * Seaborn
 * Jupyter Notebook
-
-### How to Run
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/deposit-mix-analysis.git](https://github.com/your-username/deposit-mix-analysis.git)
-    cd deposit-mix-analysis
-    ```
-2.  **Install dependencies:**
-    It is recommended to use a virtual environment.
-    ```bash
-    pip install pandas matplotlib seaborn jupyterlab
-    ```
-3.  **Launch Jupyter:**
-    ```bash
-    jupyter lab
-    ```
-4.  Open the `cust-ac-details.ipynb` notebook and run the cells to reproduce the analysis and visualizations.
 
 ### Data Source
 * `product_wise_ac_info.csv`: This file contains the aggregated data on the number of accounts for each product description, segmented by product nature, product type, and gender.
